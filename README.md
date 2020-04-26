@@ -1,8 +1,8 @@
 # MDC-100 Series of Codelabs
 
-## Learning the basic use of Material Design on FLutter app
+## Learning the basic use of Material Design in Flutter app
 
-I am following the MCD-100 series to learn how to use Material design on Flutter.
+I am following the MCD-100 series to learn how to use Material design in Flutter.
 This repositorie will work how notes for future reference.
 
 The menu
